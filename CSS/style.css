@@ -7,11 +7,9 @@
 	--primary-color: #35cc74;
 	--secondary-color: #6c757d;
 	--light-color: #f8f9fa;
-	--dark-color: #343a40;
 	--bg-color: #160d20;
 	--font-title: 'Monoton', cursive;
 	--font-text: 'Open Sans', sans-serif;
-	--value: 0;
 }
 
 body {
@@ -56,6 +54,9 @@ h1 {
 
 a {
 	text-decoration: none;
+}
+a i {
+	color: #551a8b;
 }
 i:active {
 	color: var(--primary-color);
