@@ -9,8 +9,8 @@
 </p>
 <div>
 <h2 align="center"> Preview </h2>
-  <p align="center"><img height="50%" width="50%" src="./.github/preview1.jpg"></p>
-  
+  <p align="center"><img height="50%" width="50%" src="./.github/preview.jpg"></p>
+
 </div>
 
 ## 🚀 Tecnologias
@@ -19,14 +19,15 @@
     <img  alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img alt="Js" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></p>
- 
+
 ## 💻 Projeto
+
 <div>
   <ul>
     <li>Autor : <a href="https://github.com/BerserKess">Kesley Rainery</a></p></li>
     <li><p>Proposta: Criar um gerador de senhas simples como projeto pessoal</p></li>
    </ul>
-   
+
 </div>
 
 ## 📝 Licença
